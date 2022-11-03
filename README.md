@@ -2,7 +2,7 @@
 
 ### About me
 
-####👨🏼‍💻 I'm Thomas Murzyn a **Full stack developpeur**
+###👨🏼‍💻 I'm Thomas Murzyn a **Full stack developpeur**
 
 
 😁 I enjoy coding and learning new things, I'm **autodidact**. 
