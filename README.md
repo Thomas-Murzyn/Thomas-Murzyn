@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Thomas-Murzyn/Thomas-Murzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+####👨🏼‍💻 I'm Thomas Murzyn a **Full stack developpeur**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+😁 I enjoy coding and learning new things, I'm **autodidact**. 
+
+💻 I create websites with **React js, Redux, Next js, Typescript and Tailwind Css** in Front end and **Node js, Express and Mongo db in Back end. I also like to use some cool stuff like **Graphql, Materia ui etc...
+
+Outside the world of tech too, I love reading books of all types, watching some good movies or series and do arts martials and exercices.
+
+I'm also a father 👨🏼‍🍼.
+
+Take a look at my different _repositories_. I have a [portfolio website](https://thomas-murzyn-portfolio.vercel.app/) you can visit it an check my work for an other way.
+
