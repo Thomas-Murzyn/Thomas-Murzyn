@@ -7,7 +7,7 @@
 
 😁 I enjoy coding and learning new things, I'm **autodidact**. 
 
-💻 I create websites with **React js, Redux, Next js, Typescript and Tailwind Css** in Front end and **Node js, Express and Mongo db in Back end. I also like to use some cool stuff like **Graphql, Materia ui etc...
+💻 I create websites with **React js, Redux, Next js, Typescript and Tailwind Css** in Front end and **Node js, Express and Mongo db in Back end**. I also like to use some cool stuff like **Graphql, Materia ui** etc...
 
 Outside the world of tech too, I love reading books of all types, watching some good movies or series and do arts martials and exercices.
 
