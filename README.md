@@ -13,5 +13,5 @@ Outside the world of tech too, I love reading books of all types, watching some 
 
 I'm also a father 👨🏼‍🍼.
 
-Take a look at my different _repositories_. I have a [portfolio website](https://thomas-murzyn-portfolio.vercel.app/) you can visit it an check my work for an other way.
+Take a look at my different _repositories_. I have a [portfolio website](https://thomas-murzyn-portfolio.vercel.app/) you can visit it and check my work for an other way.
 
